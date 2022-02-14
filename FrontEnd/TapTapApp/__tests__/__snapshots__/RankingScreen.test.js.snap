@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Ranking Rendered Page 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "height": "10%",
+        "margin": 20,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "alignSelf": "center",
+          "color": "#000000",
+          "fontSize": 25,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      Top 15 Mobile Games
+    </Text>
+    <View
+      style={
+        Object {
+          "alignSelf": "center",
+          "width": "45%",
+        }
+      }
+    >
+      <RNCPicker
+        items={
+          Array [
+            Object {
+              "label": "USA",
+              "testID": undefined,
+              "textColor": undefined,
+              "value": "USA",
+            },
+            Object {
+              "label": "World",
+              "testID": undefined,
+              "textColor": undefined,
+              "value": "World",
+            },
+            Object {
+              "label": "China",
+              "testID": undefined,
+              "textColor": undefined,
+              "value": "Taiwan",
+            },
+            Object {
+              "label": "Japan",
+              "testID": undefined,
+              "textColor": undefined,
+              "value": "Japan",
+            },
+            Object {
+              "label": "Korea",
+              "testID": undefined,
+              "textColor": undefined,
+              "value": "Korea",
+            },
+            Object {
+              "label": "India",
+              "testID": undefined,
+              "textColor": undefined,
+              "value": "India",
+            },
+            Object {
+              "label": "Vietnam",
+              "testID": undefined,
+              "textColor": undefined,
+              "value": "Vietnam",
+            },
+          ]
+        }
+        numberOfLines={1}
+        onChange={[Function]}
+        selectedIndex={0}
+        style={
+          Array [
+            Object {
+              "height": 216,
+            },
+            undefined,
+          ]
+        }
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "flexDirection": "column",
+        "justifyContent": "center",
+        "paddingBottom": 10,
+        "paddingTop": 20,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#9B9B9B",
+          "flex": 4,
+          "fontSize": 14,
+        }
+      }
+    >
+      Loading
+    </Text>
+  </View>
+</View>
+`;

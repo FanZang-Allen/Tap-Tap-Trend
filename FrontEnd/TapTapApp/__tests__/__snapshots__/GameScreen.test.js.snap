@@ -1,0 +1,369 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Game Rendered Page 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View>
+    <View
+      style={
+        Object {
+          "alignItems": "flex-start",
+          "backgroundColor": "#426A70",
+          "flexDirection": "row",
+          "height": 120,
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <Image
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://img.tapimg.com/market/icons/4cf4ff9eb0d623a2ae9cf5ecc49879c3_360.png?imageMogr2/auto-orient/strip",
+          }
+        }
+        style={
+          Object {
+            "flex": 1,
+            "height": 100,
+            "margin": 10,
+            "width": 100,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "flex": 3,
+            "flexDirection": "column",
+            "justifyContent": "space-between",
+            "marginVertical": 10,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#ffffff",
+              "fontSize": 23,
+              "fontWeight": "bold",
+            }
+          }
+        >
+          Fortnite
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "#ffffff",
+              "fontSize": 19,
+              "marginTop": 2,
+            }
+          }
+        >
+          Epic Games
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "#0B0730",
+              "fontSize": 18,
+            }
+          }
+        >
+          Dev Onboard
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "height": 50,
+          "justifyContent": "space-evenly",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "white",
+            "borderBottomWidth": 2,
+            "borderColor": "blue",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <Text
+          onPress={[Function]}
+          style={
+            Object {
+              "alignSelf": "center",
+              "color": "black",
+              "fontSize": 20,
+              "fontWeight": "bold",
+            }
+          }
+        >
+          Detail
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "white",
+            "borderBottomWidth": 0,
+            "borderColor": "blue",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <Text
+          onPress={[Function]}
+          style={
+            Object {
+              "alignSelf": "center",
+              "color": "black",
+              "fontSize": 20,
+              "fontWeight": "bold",
+            }
+          }
+        >
+          Review
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "white",
+            "borderBottomWidth": 0,
+            "borderColor": "blue",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <Text
+          onPress={[Function]}
+          style={
+            Object {
+              "alignSelf": "center",
+              "color": "black",
+              "fontSize": 20,
+              "fontWeight": "bold",
+            }
+          }
+        >
+          Group
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "flex-start",
+        "backgroundColor": "#ffffff",
+        "flexDirection": "row",
+        "height": 160,
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flex": 7,
+          "flexDirection": "column",
+          "justifyContent": "space-between",
+          "marginHorizontal": 10,
+          "marginVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#9B9B9B",
+            "fontSize": 18,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Downloads: 7047196
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#9B9B9B",
+            "fontSize": 18,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Followers: 1295060
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#9B9B9B",
+            "fontSize": 18,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Genre: PVP, PUBG, Online, RPG, Multiplayer, Shooter
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "black",
+            "fontSize": 22,
+            "fontWeight": "bold",
+            "marginTop": 5,
+            "textDecorationLine": "underline",
+          }
+        }
+      >
+        About
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 3,
+          "flexDirection": "column",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Image
+        resizeMode="contain"
+        source={
+          Object {
+            "process": [Function],
+          }
+        }
+        style={
+          Object {
+            "flex": 1,
+            "height": 40,
+            "marginTop": 15,
+            "width": 40,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "color": "#4E40F8",
+            "flex": 2,
+            "fontSize": 30,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        6.9
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#ffffff",
+        "flex": 1,
+      }
+    }
+  >
+    <RCTScrollView
+      style={
+        Object {
+          "marginHorizontal": 10,
+        }
+      }
+    >
+      <View>
+        <Text
+          style={
+            Object {
+              "color": "black",
+              "fontSize": 16,
+            }
+          }
+        >
+          Drop.
+        </Text>
+      </View>
+    </RCTScrollView>
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#ffffff",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "margin": 10,
+        }
+      }
+    >
+      <View
+        accessibilityRole="button"
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        nativeID="animatedComponent"
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#007AFF",
+                  "fontSize": 18,
+                  "margin": 8,
+                  "textAlign": "center",
+                },
+              ]
+            }
+          >
+            Add to Favourite
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
