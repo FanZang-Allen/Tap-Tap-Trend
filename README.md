@@ -10,7 +10,7 @@ For more information about Tap Tap, please refer to [Wiki](https://zh.wikipedia.
 Check Manual Test Plan to know how to install the app to mobile phones.
 Type python command_line_interface to start back end system.
 
-##Project Description
+## Project Description
 
 ### Project Purpose
 The purpose of this project is to help users easily obtain information about trending mobile games, discover
